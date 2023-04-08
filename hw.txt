@@ -1,0 +1,4 @@
+codewars if i want
+https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-8&beta=false&order_by=total_completed%20desc
+
+Make a program that asks for the number of the month (from 1 to 12) and outputs to the console the answer to which season the entered month belongs ("winter month," "spring month," "summer month," or "fall month"). If the number entered is not from 1 to 12 - output "You entered an invalid number."
