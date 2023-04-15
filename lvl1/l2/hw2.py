@@ -1,0 +1,1 @@
+print(f"Programming is exciting. Because only in programming can you add truth to truth and get {True+True}")
