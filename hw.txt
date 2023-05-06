@@ -1,2 +1,4 @@
 codewars if i want
 https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-8&beta=false&order_by=total_completed%20desc
+Write a list with the months of the year. In the loop output, the name of the month and its sequence number (in the year, not in the list).
+Make a "magic ball" program. Make a list with the strings "yes," "no," "can't say right now." Greet the user and display a message - "Ask a question you care about that can be answered by yes or no." Questions entered by the user should be answered randomly.
