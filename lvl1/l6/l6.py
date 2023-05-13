@@ -21,8 +21,8 @@ if "lol" in games:
 if "ffff" not in games:
     print("games list is valid")
 # create games library editor
-character = ["Wise", "Cheeky", "Cheerful", "Lame", "Cowardly", "Brave", "Crazy", "Proud", "Big-Eared", "Unstoppable"]
-animal = ["Tiger", "Gopher", "Eagle", "Rabbit", "Deer", "Hog", "Saiga", "Bear", "Mustang", "Giraffe"]
-first_name = random.choice(character)
-second_name = random.choice(animal)
+characters = ["Wise", "Cheeky", "Cheerful", "Lame", "Cowardly", "Brave", "Crazy", "Proud", "Big-Eared", "Unstoppable"]
+animals = ["Tiger", "Gopher", "Eagle", "Rabbit", "Deer", "Hog", "Saiga", "Bear", "Mustang", "Giraffe"]
+first_name = random.choice(characters)
+second_name = random.choice(animals)
 print(f"In the Chickasaw tribe your name would be: {first_name} {second_name}!")
