@@ -38,7 +38,8 @@ def factorial(n):
     for i in range(1,n+1):
         r*=i
     return r
-print(factorial(12))
+print(factorial(5))
 
 mult = lambda a,b: a*b
 print(mult(8,2))
+
