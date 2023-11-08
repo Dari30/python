@@ -1,0 +1,7 @@
+1. We should have a Insect class  that has name, a food , and a satiety levels.+
+2. The insect knows how to eat and get its own food. During the search for food, the insect can get hungry. And while the bee is eating, the amount of food is decreasing.+
+3. We have a class of bee which also has a name and can eat and get its own food. The bee also has honey (quantitatively).+
+4. Collecting honey is the bee's main job, and she must be able to do that too. When the bee is working, she can get hungry.+
+5. It is important that we can track the state of the bee each day and see the amount of all its properties as possible (food, satiety, amount of honey)
+6. We want to see how the bee will live for 30 days. During a day the bee can perform one action.
+ +If the bee dies, the observation stops.

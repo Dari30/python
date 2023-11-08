@@ -1,11 +1,5 @@
+
 codewars if i want
 https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-8&beta=false&order_by=total_completed%20desc
 
-optimise the winner using for loop the same way as it is done in js
-
-make sure r,c are entered correctly by the user the same way as it's done in l10v2
-make sure rt,ct are entered correctly by the user the same way as it's done in l10v2
-
-add 3 aditional moves to diagonal
-
-make sure column is correct; And make sure row and column are correct in tic tac toe
+log other bee life events (see logging collecting honey)
